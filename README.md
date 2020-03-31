@@ -1,5 +1,5 @@
 # Blockade
-Blockade game with monads. Created in haskell compiled cabal.
+Blockade game with monads. Created in haskell and compiled with cabal.
 
 ### Run the code:
 
