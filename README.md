@@ -5,4 +5,4 @@ Blockade game with monads. Created in haskell and compiled with cabal.
 
 ```cabal run```
 
-![](blockade.png)
+<img src="homeScreen.png" alt="drawing" width="300"/>
